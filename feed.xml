@@ -1,15 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-31T18:34:45+09:00</updated><id>http://localhost:4000/</id><title type="html">gLife</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">인생의 구성성분</title><link href="http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="인생의 구성성분" /><published>2018-03-27T18:43:58+09:00</published><updated>2018-03-27T18:43:58+09:00</updated><id>http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll.html">&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;err&quot;&gt;인생의&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;구성성분&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-31T19:40:59+09:00</updated><id>http://localhost:4000/</id><title type="html">gLife</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">인생의 구성성분</title><link href="http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="인생의 구성성분" /><published>2018-03-27T18:43:58+09:00</published><updated>2018-03-27T18:43:58+09:00</updated><id>http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll.html">&lt;p&gt;&lt;strong&gt;[인생의 구성요소]&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;나&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;나&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;삶&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;목적-목표-계획&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;일&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;건강&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;앎&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;삶&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;낙&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;행사 ex) 대학입학, 취직, 결혼, 여행, 일기&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;줌&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;일&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://gWish.me&quot;&gt;gLife&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">인생의 구성성분 나 삶 일 앎 낙 줌 gLife</summary></entry></feed>
+&lt;p&gt;가치를 만듦&lt;/p&gt;
+
+&lt;p&gt;필요한 것을 함&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;앎&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;배우고 발전함 ex) IT, 외국어, 디자인&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;낙&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;그 자체로 즐거운 것을 함 ex) 기타, 우클렐레, 오카리나, 피규어, 구체관절인형, 애니메이션, 만화, 탁구, 테니스, 야구, 농구&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;줌&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;가치 있는 것을 줌 ex) 듣기, 친절, 예의, 웃음, 맞장구&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[구조]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;목적 - 행동 - 보상&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[방침]&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Just Simple&lt;/p&gt;
+
+&lt;p&gt;Keep Going&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://gWish.me&quot;&gt;gLife&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">[인생의 구성요소]</summary></entry></feed>

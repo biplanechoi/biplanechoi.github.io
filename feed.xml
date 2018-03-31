@@ -1,8 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-30T16:05:24+09:00</updated><id>http://localhost:4000/</id><title type="html">gLife</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">인생의 구성성분</title><link href="http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="인생의 구성성분" /><published>2018-03-27T18:43:58+09:00</published><updated>2018-03-27T18:43:58+09:00</updated><id>http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll.html">&lt;p&gt;그렇습니다! 인생의 &lt;code class=&quot;highlighter-rouge&quot;&gt;구성성분&lt;/code&gt;을 생각했습니다.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-31T18:02:03+09:00</updated><id>http://localhost:4000/</id><title type="html">gLife</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">인생의 구성성분</title><link href="http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="인생의 구성성분" /><published>2018-03-27T18:43:58+09:00</published><updated>2018-03-27T18:43:58+09:00</updated><id>http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll.html">&lt;p&gt;그렇습니다! 인생의 &lt;code class=&quot;highlighter-rouge&quot;&gt;구성성분&lt;/code&gt;을 생각했습니다.&lt;/p&gt;
 
 &lt;p&gt;개인의 경험이나 환경, 시대에 따라 달라지겠지만 지극히 개인적인 경험을 바탕으로 사람의 삶은 어떤 것들로 이루어져 있는지를 정의하고 싶었습니다.&lt;/p&gt;
 
 &lt;p&gt;나는 어떤 삶을 원하는지, 또 현재 어떤 삶을 살고 있는지, 지금 보다 나은 사람이 되고 싶을때, 내 삶에서 어떤 부분이 부족한지 확인하고 싶을 때 기준이 되어줄 수 있는 그런 구분을요.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;나&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;삶&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;일&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;배움&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;취미&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;베품&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;저는 아래 여섯 가지로 나누었습니다 :&lt;/p&gt;
 
@@ -13,4 +25,4 @@
 &lt;span class=&quot;err&quot;&gt;취미&lt;/span&gt;
 &lt;span class=&quot;err&quot;&gt;베품&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">그렇습니다! 인생의 구성성분을 생각했습니다.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">그렇습니다! 인생의 구성성분을 생각했습니다. 개인의 경험이나 환경, 시대에 따라 달라지겠지만 지극히 개인적인 경험을 바탕으로 사람의 삶은 어떤 것들로 이루어져 있는지를 정의하고 싶었습니다. 나는 어떤 삶을 원하는지, 또 현재 어떤 삶을 살고 있는지, 지금 보다 나은 사람이 되고 싶을때, 내 삶에서 어떤 부분이 부족한지 확인하고 싶을 때 기준이 되어줄 수 있는 그런 구분을요. 나 삶 일 배움 취미 베품 저는 아래 여섯 가지로 나누었습니다 : 나 삶 일 배움 취미 베품 Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.</summary></entry></feed>

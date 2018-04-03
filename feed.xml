@@ -1,43 +1,96 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="https://biplanechoi.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://biplanechoi.github.io/" rel="alternate" type="text/html" /><updated>2018-03-31T23:17:32+09:00</updated><id>https://biplanechoi.github.io/</id><title type="html">gLife</title><subtitle>나의 신념은 그런 세상을 만들어 내는 게 아니야
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-03T09:47:22+09:00</updated><id>http://localhost:4000/</id><title type="html">gLife</title><subtitle>나의 신념은 그런 세상을 만들어 내는 게 아니야
 그 길을 향해 포기하지 않고 나아가는 내가 되는 것
-그게 나의 신념이야 -가담항설</subtitle><entry><title type="html">인생의 구성성분</title><link href="https://biplanechoi.github.io/jekyll/update/2018/03/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="인생의 구성성분" /><published>2018-03-27T18:43:58+09:00</published><updated>2018-03-27T18:43:58+09:00</updated><id>https://biplanechoi.github.io/jekyll/update/2018/03/27/welcome-to-jekyll</id><content type="html" xml:base="https://biplanechoi.github.io/jekyll/update/2018/03/27/welcome-to-jekyll.html">&lt;p&gt;&lt;strong&gt;[인생의 구성요소]&lt;/strong&gt;&lt;/p&gt;
+그게 나의 신념이야 -가담항설</subtitle><entry><title type="html">하루</title><link href="http://localhost:4000/jekyll/update/2018/04/02/a-day.html" rel="alternate" type="text/html" title="하루" /><published>2018-04-02T17:19:33+09:00</published><updated>2018-04-02T17:19:33+09:00</updated><id>http://localhost:4000/jekyll/update/2018/04/02/a-day</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/04/02/a-day.html">&lt;p&gt;&lt;strong&gt;[내가 살고 싶은 하루]&lt;/strong&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;아침&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;7시 기상&lt;/p&gt;
+
+&lt;p&gt;야구 하이라이트&lt;/p&gt;
+
+&lt;p&gt;아침&lt;/p&gt;
+
+&lt;p&gt;커피&lt;/p&gt;
+
+&lt;p&gt;글쓰기&lt;/p&gt;
+
+&lt;p&gt;산책
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;오후&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;탁구&lt;/p&gt;
+
+&lt;p&gt;책읽기&lt;/p&gt;
+
+&lt;p&gt;발명&lt;/p&gt;
+
+&lt;p&gt;미스테리 추리
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;저녁&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;수다&lt;/p&gt;
+
+&lt;p&gt;영화&lt;/p&gt;</content><author><name></name></author><summary type="html">[내가 살고 싶은 하루]</summary></entry><entry><title type="html">인생의 구성성분</title><link href="http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="인생의 구성성분" /><published>2018-03-27T18:43:58+09:00</published><updated>2018-03-27T18:43:58+09:00</updated><id>http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll.html">&lt;p&gt;&lt;strong&gt;[인생의 구성요소]&lt;/strong&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;나&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;목적-목표-계획&lt;/p&gt;
+&lt;p&gt;목적 : 내가 생각하는 인생의 가치 -목표 : 목적을 이루기 위한 과정(수치화 가능) -계획 : 목표를 이루기 위한 설계&lt;/p&gt;
 
-&lt;p&gt;건강&lt;/p&gt;
+&lt;p&gt;건강
+  &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;삶&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;행사 ex) 대학입학, 취직, 결혼, 여행, 일기&lt;/p&gt;
+&lt;p&gt;행사 ex) 대학입학, 취직, 결혼, 여행, 일기
+  &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;일&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;가치를 만듦&lt;/p&gt;
+&lt;p&gt;가치를 만듦 ex) 브릭, 사만다, 호프&lt;/p&gt;
 
-&lt;p&gt;필요한 것을 함&lt;/p&gt;
+&lt;p&gt;필요한 것을 함 ex) 직업 
+  &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;앎&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;배우고 발전함 ex) IT, 외국어, 디자인&lt;/p&gt;
+&lt;p&gt;배우고 발전함 ex) IT, 외국어, 디자인
+  &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;낙&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;그 자체로 즐거운 것을 함 ex) 기타, 우클렐레, 오카리나, 피규어, 구체관절인형, 애니메이션, 만화, 탁구, 테니스, 야구, 농구&lt;/p&gt;
+&lt;p&gt;그 자체로 즐거운 것을 함 ex) 기타, 우클렐레, 오카리나, 피규어, 구체관절인형, 애니메이션, 만화, 탁구, 테니스, 야구, 농구
+  &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;줌&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;가치 있는 것을 줌 ex) 듣기, 친절, 예의, 웃음, 맞장구&lt;/p&gt;
+&lt;p&gt;가치 있는 것을 줌 ex) 듣기, 친절, 예의, 웃음, 맞장구
+  &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;[구조]&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;목적 - 행동 - 보상&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;[구조]&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;[방침]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;목적 - 행동 - 보상
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;[방침]&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Just Simple&lt;/p&gt;
 
-&lt;p&gt;Keep Going&lt;/p&gt;
+&lt;p&gt;Keep Going
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;[APP]&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://gWish.me&quot;&gt;gLife&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">[인생의 구성요소]</summary></entry></feed>

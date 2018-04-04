@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-04T10:40:38+09:00</updated><id>http://localhost:4000/</id><title type="html">gLife</title><subtitle>나의 신념은 그런 세상을 만들어 내는 게 아니야
 그 길을 향해 포기하지 않고 나아가는 내가 되는 것
 그게 나의 신념이야 -가담항설</subtitle><entry><title type="html">목적</title><link href="http://localhost:4000/jekyll/update/2018/04/04/lucky-purpose.html" rel="alternate" type="text/html" title="목적" /><published>2018-04-04T10:25:25+09:00</published><updated>2018-04-04T10:25:25+09:00</updated><id>http://localhost:4000/jekyll/update/2018/04/04/lucky-purpose</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/04/04/lucky-purpose.html">&lt;p&gt;&lt;strong&gt;[Purpose]&lt;/strong&gt;
@@ -20,11 +19,6 @@
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;</content><author><name></name></author><summary type="html">[Purpose]</summary></entry><entry><title type="html">운좋은 나, 운좋은 진흙</title><link href="http://localhost:4000/jekyll/update/2018/04/03/lucky-me-lucky-mud.html" rel="alternate" type="text/html" title="운좋은 나, 운좋은 진흙" /><published>2018-04-03T17:25:25+09:00</published><updated>2018-04-03T17:25:25+09:00</updated><id>http://localhost:4000/jekyll/update/2018/04/03/lucky-me-lucky-mud</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/04/03/lucky-me-lucky-mud.html">&lt;p&gt;&lt;strong&gt;[Lucky me, lucky mud]&lt;/strong&gt;
-=======
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-03T17:26:05+09:00</updated><id>http://localhost:4000/</id><title type="html">gLife</title><subtitle>나의 신념은 그런 세상을 만들어 내는 게 아니야
-그 길을 향해 포기하지 않고 나아가는 내가 되는 것
-그게 나의 신념이야 -가담항설</subtitle><entry><title type="html">운좋은 나, 운좋은 진흙</title><link href="http://localhost:4000/jekyll/update/2018/04/03/lucky-me-lucky-mud.html" rel="alternate" type="text/html" title="운좋은 나, 운좋은 진흙" /><published>2018-04-03T17:25:25+09:00</published><updated>2018-04-03T17:25:25+09:00</updated><id>http://localhost:4000/jekyll/update/2018/04/03/lucky-me-lucky-mud</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/04/03/lucky-me-lucky-mud.html">&lt;p&gt;&lt;strong&gt;[Lucky me, lucky mud]&lt;/strong&gt;
->>>>>>> 50de9aed6887cf36ca0e79bce037c319955b4aef
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;신은 진흙을 창조했습니다.&lt;/p&gt;
@@ -47,13 +41,7 @@
 
 &lt;p&gt;당신 앞에서 나는 그저 초라한 존재일 뿐입니다.&lt;/p&gt;
 
-<<<<<<< HEAD
 &lt;p&gt;그나마 조금이라도 내가 소중하게 느껴지는 유일한 순간은, 아직 일어나 주변을 둘러볼 기회를 갖지 못한 다른 모든 진흙들을 떠올릴 때.&lt;/p&gt;
-=======
-&lt;p&gt;그나마 조금이라도 내가 소중하게 느껴지는 유일한 순간은,&lt;/p&gt;
-
-&lt;p&gt;아직 일어나 주변을 둘러볼 기회를 갖지 못한 다른 모든 진흙들을 떠올릴 때.&lt;/p&gt;
->>>>>>> 50de9aed6887cf36ca0e79bce037c319955b4aef
 
 &lt;p&gt;나는 너무나 많은 것을 얻었지만, 진흙들 대부분 그러지 못했습니다.&lt;/p&gt;
 
@@ -121,14 +109,10 @@ What memories for mud to have!&lt;/p&gt;
 
 &lt;p&gt;Amen.&lt;/p&gt;
 
-<<<<<<< HEAD
 &lt;p&gt;-Kurt Vonnegut, Cat’s Cradle
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;</content><author><name></name></author><summary type="html">[Lucky me, lucky mud]</summary></entry><entry><title type="html">인간이란</title><link href="http://localhost:4000/jekyll/update/2018/04/03/a-human.html" rel="alternate" type="text/html" title="인간이란" /><published>2018-04-03T16:59:23+09:00</published><updated>2018-04-03T16:59:23+09:00</updated><id>http://localhost:4000/jekyll/update/2018/04/03/a-human</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/04/03/a-human.html">&lt;p&gt;&lt;strong&gt;[A human being]&lt;/strong&gt;
-=======
-&lt;p&gt;― Kurt Vonnegut, Cat’s Cradle&lt;/p&gt;</content><author><name></name></author><summary type="html">[Lucky me, lucky mud]</summary></entry><entry><title type="html">인간이란</title><link href="http://localhost:4000/jekyll/update/2018/04/03/a-human.html" rel="alternate" type="text/html" title="인간이란" /><published>2018-04-03T16:59:23+09:00</published><updated>2018-04-03T16:59:23+09:00</updated><id>http://localhost:4000/jekyll/update/2018/04/03/a-human</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/04/03/a-human.html">&lt;p&gt;&lt;strong&gt;[A human being]&lt;/strong&gt;
->>>>>>> 50de9aed6887cf36ca0e79bce037c319955b4aef
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.&lt;/p&gt;
@@ -138,14 +122,10 @@ What memories for mud to have!&lt;/p&gt;
 
 &lt;p&gt;인간이란 기저귀를 갈 수 있어야 하고, 침략을 계획하고, 돼지를 잡고, 배를 몰고, 건물을 디자인하고, 시를 쓰고, 결제하고, 담을 쌓고, 뼈를 맞추고, 임종을 위로하고, 주문을 받고, 주문을 하고, 협력하고, 혼자 일하고, 방정식을 풀고, 새로운 문제를 분석하고, 거름을 주고, 프로그램을 짜고, 맛있는 식사를 요리하고, 효율적으로 싸우고, 당당하게 죽어야 한다. 전문화는 벌레나 하는 짓이다.&lt;/p&gt;
 
-<<<<<<< HEAD
 &lt;p&gt;-로버트 A. 하인라인
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;</content><author><name></name></author><summary type="html">[A human being]</summary></entry><entry><title type="html">하루</title><link href="http://localhost:4000/jekyll/update/2018/04/02/a-day.html" rel="alternate" type="text/html" title="하루" /><published>2018-04-02T17:19:33+09:00</published><updated>2018-04-02T17:19:33+09:00</updated><id>http://localhost:4000/jekyll/update/2018/04/02/a-day</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/04/02/a-day.html">&lt;p&gt;&lt;strong&gt;[내가 살고 싶은 하루]&lt;/strong&gt;
-=======
-&lt;p&gt;-로버트 A. 하인라인&lt;/p&gt;</content><author><name></name></author><summary type="html">[A human being]</summary></entry><entry><title type="html">하루</title><link href="http://localhost:4000/jekyll/update/2018/04/02/a-day.html" rel="alternate" type="text/html" title="하루" /><published>2018-04-02T17:19:33+09:00</published><updated>2018-04-02T17:19:33+09:00</updated><id>http://localhost:4000/jekyll/update/2018/04/02/a-day</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/04/02/a-day.html">&lt;p&gt;&lt;strong&gt;[내가 살고 싶은 하루]&lt;/strong&gt;
->>>>>>> 50de9aed6887cf36ca0e79bce037c319955b4aef
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;아침&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -176,7 +156,6 @@ What memories for mud to have!&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;저녁&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
 
-<<<<<<< HEAD
 &lt;p&gt;저녁&lt;/p&gt;
 
 &lt;p&gt;수다&lt;/p&gt;
@@ -185,11 +164,6 @@ What memories for mud to have!&lt;/p&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;</content><author><name></name></author><summary type="html">[내가 살고 싶은 하루]</summary></entry><entry><title type="html">인생의 구성성분</title><link href="http://localhost:4000/jekyll/update/2018/03/27/elements-of-life.html" rel="alternate" type="text/html" title="인생의 구성성분" /><published>2018-03-27T18:43:58+09:00</published><updated>2018-03-27T18:43:58+09:00</updated><id>http://localhost:4000/jekyll/update/2018/03/27/elements-of-life</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/03/27/elements-of-life.html">&lt;p&gt;&lt;strong&gt;[인생의 구성요소]&lt;/strong&gt;
-=======
-&lt;p&gt;수다&lt;/p&gt;
-
-&lt;p&gt;영화&lt;/p&gt;</content><author><name></name></author><summary type="html">[내가 살고 싶은 하루]</summary></entry><entry><title type="html">인생의 구성성분</title><link href="http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="인생의 구성성분" /><published>2018-03-27T18:43:58+09:00</published><updated>2018-03-27T18:43:58+09:00</updated><id>http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/03/27/welcome-to-jekyll.html">&lt;p&gt;&lt;strong&gt;[인생의 구성요소]&lt;/strong&gt;
->>>>>>> 50de9aed6887cf36ca0e79bce037c319955b4aef
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;나&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -225,7 +199,6 @@ What memories for mud to have!&lt;/p&gt;
 
 &lt;p&gt;가치 있는 것을 줌 ex) 듣기, 친절, 예의, 웃음, 맞장구
   &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-<<<<<<< HEAD
 
 &lt;hr /&gt;
 
@@ -237,19 +210,6 @@ What memories for mud to have!&lt;/p&gt;
 
 &lt;hr /&gt;
 
-=======
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;strong&gt;[구조]&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;목적 - 행동 - 보상
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
->>>>>>> 50de9aed6887cf36ca0e79bce037c319955b4aef
 &lt;p&gt;&lt;br /&gt;
 &lt;strong&gt;[방침]&lt;/strong&gt;&lt;/p&gt;
 
@@ -262,12 +222,9 @@ What memories for mud to have!&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
 &lt;strong&gt;[APP]&lt;/strong&gt;&lt;/p&gt;
-<<<<<<< HEAD
 
 &lt;p&gt;&lt;a href=&quot;http://gWish.me&quot;&gt;gLife&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-=======
->>>>>>> 50de9aed6887cf36ca0e79bce037c319955b4aef
 
 &lt;hr /&gt;</content><author><name></name></author><summary type="html">[인생의 구성요소]</summary></entry></feed>
